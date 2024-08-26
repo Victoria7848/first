@@ -34,6 +34,7 @@ header {
 footer{
     background-color: #343434;
     padding-bottom: 50px;
+    width: 1370px;
 }
 .container{
     width: 1140px;
@@ -42,7 +43,7 @@ footer{
     justify-content: center;
 }
 .footer-content{
-    width: 1370px;;
+    width: 33.3%;;
 }
 h3{
     font-size: 28px;
