@@ -12,6 +12,7 @@ header h1 {
     padding: 25px;
     margin-top: -10px;
 }
+
 header {
     background-color: rgb(41, 39, 39);
     box-shadow: 0 4px 60px rgb(2 0 112 / 15%);
@@ -31,9 +32,10 @@ header {
     font-size: 16px;
     color: white;
 }
-footer{
+.footer {
     background-color: #343434;
     padding-bottom: 50px;
+    width: 1370px;
 }
 .container{
     width: 1140px;
